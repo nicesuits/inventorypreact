@@ -1,6 +1,6 @@
 {
-  "name": "inventory",
-  "short_name": "inventory",
+  "name": "default",
+  "short_name": "default",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
